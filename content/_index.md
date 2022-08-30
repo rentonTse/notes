@@ -4,7 +4,7 @@ type: book # Do not modify.
 toc: false
 
 cover:
-  image: covers/PIA12348_orig.jpg
+  image: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
   caption: NASA
 ---
 
