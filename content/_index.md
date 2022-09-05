@@ -9,15 +9,15 @@ cover:
 ---
 <font face="KaiTi" size="4" >
 
-## Introduction
+## 简介
 
-Hello! This is xzt.I will upload some notes on Astronomy and interesting things later!
+嘿，后续我将会上传一些关于数学和天文的笔记。
 \
-**Interests**
+**兴趣方向**
 
-- Symplectic Geometry
-- Astronomy & Image processing
-- Photography
+- 辛几何
+- 天文学 & 图像处理
+- 摄影
 
 ## 天体测量学 Astronomy
 
@@ -27,12 +27,11 @@ Hello! This is xzt.I will upload some notes on Astronomy and interesting things 
 - 参考书籍
   中国科学院国家天文台基本天文学及其应用系列丛书--天体测量学导论 赵铭著
 
-updating...
+updating....
 
 ## 点扩散函数（Point Spread Function）
 
 若有一个点光源，或者离我们特别远且小于一个像素的光源。当我们给它拍照片的时候，它将会扩散到周围的区域。为了量化这种扩散程度，我们可以定义一个函数。这就是点扩散函数的来源。
 
-<div align=center> <img src="https://i.postimg.cc/8CXL8pdb/psf.png" width = 40%> <br>图1. PSF的模拟图 </div>
-
+<div align=center> <img src="https://i.postimg.cc/8CXL8pdb/psf.png" width = 40%> <br>图1. PSF的示意图 </div>
 </font>
