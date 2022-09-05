@@ -8,5 +8,5 @@ main:
     url: /
     weight: 10
   - name: Python
-    url: content/Python/
+    url: content/python/
     weight: 20
