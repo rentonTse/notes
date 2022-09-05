@@ -10,22 +10,24 @@ cover:
 <font face="KaiTi" size="4" >
 
 ## Introduction
+
 Hello! This is xzt.I will upload some notes on Astronomy and interesting things later!
 
- **Interests** 
+ **Interests**
+
 - Symplectic Geometry
 - Astronomy & Image processing
 - Photography
 
 ## 天体测量学 Astronomy
 
-天体测量及应用在线课程
-- 第一次课（上海天文台 齐朝祥老师）
-百度网盘链接 https://pan.baidu.com/s/1qHgohtHxWj2L84yhw3dHXA?pwd=wx4j
-提取码: wx4j 
+- 2022秋季天体测量及应用在线课程（上海天文台 齐朝祥老师）
+百度网盘链接 <https://pan.baidu.com/s/1qHgohtHxWj2L84yhw3dHXA?pwd=wx4j>
+提取码: wx4j
+- 参考书籍
+  中国科学院国家天文台基本天文学及其应用系列丛书--天体测量学导论 赵铭著
 
 updating...
-
 
 ## 有效点扩散函数（effecive Point Spread Function）
 
