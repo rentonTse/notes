@@ -5,8 +5,11 @@
 
 main:
   - name: Home
-    url: /
+    url: '#about'
     weight: 10
   - name: Python
-    url: content/python/
+    url: '#python'
     weight: 20
+  - name: Astronomy
+    url: '#Astronomy'
+    weight: 30
