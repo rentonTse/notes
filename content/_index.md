@@ -12,8 +12,8 @@ cover:
 ## Introduction
 
 Hello! This is xzt.I will upload some notes on Astronomy and interesting things later!
-
- **Interests**
+\
+**Interests**
 
 - Symplectic Geometry
 - Astronomy & Image processing
@@ -29,7 +29,7 @@ Hello! This is xzt.I will upload some notes on Astronomy and interesting things 
 
 updating...
 
-## 有效点扩散函数（effecive Point Spread Function）
+## 点扩散函数（Point Spread Function）
 
 若有一个点光源，或者离我们特别远且小于一个像素的光源。当我们给它拍照片的时候，它将会扩散到周围的区域。为了量化这种扩散程度，我们可以定义一个函数。这就是点扩散函数的来源。
 
