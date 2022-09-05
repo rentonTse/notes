@@ -10,7 +10,7 @@ cover:
 <font face="KaiTi" size="4" >
 
 ## Introduction
-Hello! This is David. It's a first try for me to use a website,in order to record my life. I will upload some notes and interesting things later!
+Hello! This is xzt.I will upload some notes on Astronomy and interesting things later!
 
  **Interests** 
 - Symplectic Geometry
@@ -18,6 +18,12 @@ Hello! This is David. It's a first try for me to use a website,in order to recor
 - Photography
 
 ## 天体测量学 Astronomy
+
+天体测量及应用在线课程
+- 第一次课（上海天文台 齐朝祥老师）
+百度网盘链接 https://pan.baidu.com/s/1qHgohtHxWj2L84yhw3dHXA?pwd=wx4j
+提取码: wx4j 
+
 updating...
 
 
