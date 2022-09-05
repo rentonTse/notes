@@ -7,6 +7,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Astronomy
-    url: /
+  - name: Python
+    url: content/Python/
     weight: 20

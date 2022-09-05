@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: Machine Learning
-linktitle: Machine Learning
-summary: ML tutorials.
+title: Astronomy
+linktitle: Astronomy
+summary: tutorials.
 weight: 1
 icon: book
 icon_pack: fas
