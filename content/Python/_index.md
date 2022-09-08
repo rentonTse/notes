@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
 title: Python
-linktitle: Python
-summary: Notes on Python data structures.
+linktitle: Python 
+summary: Notes on Python.
 weight: 2
 icon: python
 icon_pack: fab

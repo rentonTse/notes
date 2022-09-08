@@ -5,11 +5,6 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: /
     weight: 10
-  - name: Python
-    url: '#python'
-    weight: 20
-  - name: Astronomy
-    url: '#Astronomy'
-    weight: 30
+
