@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: earth
+  theme_night: earth
+  font: classic
   font_size: L
 
 # SEO
@@ -31,10 +31,11 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_translation: true
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -61,7 +62,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
