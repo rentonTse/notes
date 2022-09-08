@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/wowchemy/hugo-notes-theme
 
 go 1.15
 
