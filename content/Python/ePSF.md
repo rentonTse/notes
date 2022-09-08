@@ -7,10 +7,11 @@ date: '2019-05-05T00:00:00+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
-## Reference
 
-ePSF重要文献<https://kdocs.cn/l/cvkyN9S8a3oq>
+## Introduction
 
-## Intro
+Anderson等人提出的ePSF^[Toward High‐Precision Astrometry with WFPC2. I. Deriving an Accurate Point‐Spread Function] <https://kdocs.cn/l/cvkyN9S8a3oq>
+
+[Toward High‐Precision Astrometry with WFPC2. I. Deriving an Accurate Point‐Spread Function](https://iopscience.iop.org/article/10.1086/316632/pdf)
 
 ## Goals
