@@ -1,5 +1,5 @@
 ---
-title: ✍️ Notes
+title: Homepage
 type: book # Do not modify.
 toc: false
 
@@ -28,4 +28,4 @@ cover:
 - 参考书籍
   中国科学院国家天文台基本天文学及其应用系列丛书--天体测量学导论 赵铭著
 
-updating
+updating...
