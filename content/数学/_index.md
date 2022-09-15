@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title:  数学
-linktitle:  数学
+title:  Mathematics
+linktitle:  Mathematics
 summary: 数学的笔记.
 weight: 1
 # icon: book

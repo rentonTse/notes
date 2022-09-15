@@ -8,11 +8,10 @@ date: '2019-05-05T00:00:00+01:00'
 weight: 2
 ---
 <font face="KaiTi" size="4" >
+
 ## Introduction
 
 为了解决哈勃太空望远镜（HST）的广角和行星照相机（WFPC2[^wfpc2]）的欠采样问题，Anderson等人提出用ePSF方法[^ak00]。
-
-[Toward High‐Precision Astrometry with WFPC2. I. Deriving an Accurate Point‐Spread Function](https://iopscience.iop.org/article/10.1086/316632/pdf)
 
 ## Goals
 
