@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 天文
-linktitle: 天文 
+title: Astronomy
+linktitle: Astronomy 
 summary: 天体测量学笔记
 weight: 2
 
