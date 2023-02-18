@@ -11,7 +11,7 @@ weight: 2
 
 ## Introduction
 
-为了解决哈勃太空望远镜（HST）的广角和行星照相机（WFPC2[^wfpc2]）的欠采样问题，Anderson等人提出用ePSF方法[^ak00]。
+为了解决哈勃太空望远镜（Hubbel Space Telescope,HST）的广角和行星照相机（WFPC2[^wfpc2]）的欠采样问题，Anderson等人提出用ePSF方法[^ak00]。
 
 ## Goals
 
